@@ -1,0 +1,21 @@
+{
+  "strings": 
+  {
+    "title": "Samourai Wallet Recovery Worksheet",
+    "page_1": "1/2",
+    "date": "Date:",
+    "page_alert_heading": "KEEP THIS WORKSHEET PRIVATE!",
+    "page_1_alert_text": "Anyone who has access to these 12 words and passphrase also has access to the bitcoin in the wallet!",
+    "instructions_heading": "Instructions & Notes",
+    "page_1_instructions": ["This a paper backup of a Bitcoin wallet as defined by BIP39.","Do not save this worksheet on your computer or in the cloud.","Print this worksheet. Using a pen write down the 12 recovery words displayed in your Samourai Wallet."],
+    "words_label": ["Word 1", "Word 2", "Word 3", "Word 4", "Word 5", "Word 6", "Word 7", "Word 8", "Word 9", "Word 10", "Word 11", "Word 12"],
+    "derivations_heading": "Derivation Paths",
+    "derivations_subheading": "for restoring in external wallet software",
+    "need_help": "Need Help?",
+    "page_2": "2/2",
+    "page_2_alert_text": "Anyone who has access to this passphrase and 12 word backup also has access to bitcoin in the wallet!",
+    "page_2_instructions": ["This a BIP39 Passphrase associated with a 12 word paper backup.","Save this section of the worksheet offline and separately from the 12 words.","Write the passphrase down carefully. Without a valid passphrase your bitcoin will be unrecoverable."],
+    "passphrase_label": "Passphrase",
+    "passphrase_warning": "The passphrase is case sensitive and may contain special characters."
+  }
+}
